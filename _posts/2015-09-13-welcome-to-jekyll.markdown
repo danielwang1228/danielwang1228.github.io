@@ -24,7 +24,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
-```c++
+{% highlight c++ %}
 // helloworld
 int main(int argc, char* argv[])
 {
@@ -32,4 +32,4 @@ int main(int argc, char* argv[])
     cout << "hello world!" << endl;
     return 0;
 }
-```
+{% highlight ruby %}
