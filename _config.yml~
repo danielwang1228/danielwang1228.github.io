@@ -4,17 +4,15 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
-markdown: kramdown
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Daniel's Blog
+title : 王冰(Daniel)的小窝
 tagline: Site Tagline
 author :
-  name : Daniel Wang 
+  name : Daniel Wang
   email : danielwang1228@sina.com
-  github : danielwang1228
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
