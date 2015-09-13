@@ -1,4 +1,5 @@
-markdown: kramdown  
+highlighter: pygments
+github: [Repository metadata] 
 
 author :
 name : Daniel Wang
