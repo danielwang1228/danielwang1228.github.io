@@ -24,12 +24,13 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
-{% highlight c++ %}
-// helloworld
+{% highlight c++%}
 int main(int argc, char* argv[])
 {
     using namespace std;
     cout << "hello world!" << endl;
     return 0;
 }
-{% highlight ruby %}
+{% endhighlight %}
+
+
